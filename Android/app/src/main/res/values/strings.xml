@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RGB</string>
+    <string name="button_send">Canviar color!</string>
+</resources>
